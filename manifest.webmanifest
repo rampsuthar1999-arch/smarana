@@ -1,0 +1,16 @@
+{
+ "name": "Smaraṇa Library",
+ "short_name": "Smaraṇa",
+ "start_url": "./",
+ "display": "standalone",
+ "background_color": "#ECEFEA",
+ "theme_color": "#ECEFEA",
+ "icons": [
+  {
+   "src": "icon.svg",
+   "sizes": "any",
+   "type": "image/svg+xml",
+   "purpose": "any"
+  }
+ ]
+}
